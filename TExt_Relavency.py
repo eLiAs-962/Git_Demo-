@@ -24,11 +24,12 @@ def Clean_Text(P1,P2):
         P1 = P1.replace(iw, " ")
     
  
-
+print(P1)
 
     for iw in irrelevant_words:
         P2 = P2.replace(iw, " ")
     
+print(P1)
   
 
 

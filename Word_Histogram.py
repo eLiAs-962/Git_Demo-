@@ -36,19 +36,16 @@ irrelevant_words = {".", "," , "\n", " the ", " a ", " and ",
                     " be ", " There "," it "," by ", " were ", " If ", " if ",
                     " In ", " in ", " s ","“","”",}
 
-# Texts cleaning 
-
+ 
 for iw in irrelevant_words:
     P1 = P1.replace(iw, " ")
     
-print(P1)
-
+ 
 
 for iw in irrelevant_words:
     P2 = P2.replace(iw, " ")
     
-print(P2)
-
+ 
 
 word_list1 = P1.split()
 word_list2 = P2.split()
