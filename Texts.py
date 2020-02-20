@@ -31,7 +31,7 @@ Even if Rabin had lived, Oslo might still have failed, defeated by small details
 
 President Trump wastes no chances to boast about America's strength. He believes that America's military and economic strength allow him to impose his will. He wants to smash old orthodoxies, like the ones that lay behind many failed attempts to make peace.
 
-The Trump document also sweeps aside inconvenient facts, like UN resolution 242 that emphasises the inadmissibility of the acquisition of territory by war, or international laws that say that occupiers cannot settle their people on occupied land.
+The Trump document also  , like UN resolution 242 that emphasises the inadmissibility of the acquisition of territory by war, or international laws that say that occupiers cannot settle their people on occupied land.
 
 Palestinian President Mahmoud Abbas rejected the document almost immediately. Palestinian rights and hopes, he said, were not for sale.
 
@@ -58,10 +58,10 @@ WHITE HOUSE - Hoping to bring about a “new dawn in the Middle East,” U.S. Pr
 
 Notably absent was any representative of the Palestinians, who rejected the peace plan even before getting a glimpse of the 80-page proposal, and who were not included in talks about the plan.  “Jerusalem is not for sale. All our rights are not for sale and are not for bargain. And your deal, the conspiracy, will not pass,” Palestinian President Mahmoud Abbas said in televised remarks directed at Trump from Ramallah in the West Bank. 
 
-Trump sees such initial rejections as a temporary hitch and told those gathered in the East Room that he sent a letter to Abbas, telling him that if he chooses “the path to peace, America and many other countries, we will be there. We will be there to help you in so many different ways.”Acceptance of the plan would lead to $50 billion of outside investment, a million jobs created for Palestinians over a decade, and a doubling or tripling of Palestinians' GDP, Trump promised.
-
+Trump sees such init ections as a temporary hitch and told those gathered in the East Room that he sent a letter to Abbas, telling him that if he chooses “the path to peace, America and many other countries, we will be there. We will be there to help you in so many different ways.”Acceptance of the plan would lead to $50 billion of outside investment, a million jobs created for Palestinians over a decade, and a doubling or tripling of Palestinians' GDP, Trump promised.
+ 
 “It is time for the Muslim world to fix the mistake it made in 1948 when it chose to attack, instead of recognize, the new State of Israel,” the president said.
-
+ 
 Egypt, one of the countries that declared war on Israel at that time, is not rejecting Trump’s vision.
 
 The country expressed appreciation of continuing U.S. efforts to realize a fair and comprehensive peaceful settlement for the Palestinian problem, according to the Middle East News Agency in Cairo.
@@ -83,9 +83,7 @@ France’s foreign ministry also said it was taking a close look at the proposal
 
 Trump proposes a Palestine with limited sovereignty — doubling the size of land currently occupied by Palestinians — and Israel annexing about a third of the disputed West Bank.  
 
-Israel’s government is now set to vote Sunday on annexing the strategic Jordan Valley and all Israeli settlements in the West Bank. 
-Jerusalem would remain Israel’s capital, and the eastern part of the holy city would be the Palestinian capital where the United States would open an embassy to Palestine, said Trump. 
-
+Israel’ 
 “I’m prepared to seize the moment and change history,” Netanyahu told the invited crowd of supporters. "Your deal of the century is the opportunity of the century,” he told Trump.
 
 Netanyahu said if the Palestinians abide by the terms laid out, “Israel will be prepared to negotiate peace right away.”
@@ -93,12 +91,7 @@ Netanyahu said if the Palestinians abide by the terms laid out, “Israel will b
 Analysts see the Israelis, strongly backed at least during the current administration in Washington, as having the position of strength.
 “It does not seem as though the Palestinians have a constructive way out. They no longer enjoy the intense, or financial support of many of the Arab powers,” Thomas Schwartz, a professor of history and political science at Vanderbilt University told VOA. “It may seem like a take it or leave it. But it may be the best deal that they are going to get. That's one of the tougher questions that the Palestinian leadership will have to face.”
 
-Above the many problems with the substance of the plan is the fundamental issue of how it was devised, according to Palestinian analysts.
-
-"Any offer toward the Palestinians and any offer of peace should be a negotiation between the Palestinians and Israelis, and that's not the case with this deal,” U.S. policy fellow Halah Ahmad, at the Palestinian policy network Al-Shabaka, told VOA.
-
-The plan, after nearly three years of discussion between U.S. and Israeli officials, was overseen by Trump's son-in-law, Jared Kushner, who long has had close ties to Netanyahu and Israel.
-
+Above the many pr 
 It involves some exotic proposals, including a high-speed rail link between Gaza and the West Bank, according to David Friedman, the U.S. ambassador to Israel.
 
 “It doesn’t really matter in the short run what the Palestinians say,” Friedman told reporters on a conference call. “They have four years to study it.”

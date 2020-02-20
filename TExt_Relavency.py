@@ -23,13 +23,13 @@ def Clean_Text(P1,P2):
     for iw in irrelevant_words:
         P1 = P1.replace(iw, " ")
     
-    print(P1)
+ 
 
 
     for iw in irrelevant_words:
         P2 = P2.replace(iw, " ")
     
-    print(P2)
+  
 
 
     word_list1 = P1.split()
